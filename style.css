@@ -1,0 +1,37 @@
+body{
+    /* background: rgb(16,38,96); */
+    background: radial-gradient(circle, rgba(16,38,96,0.6923144257703081) 0%, rgba(0,0,0,0.9948354341736695) 100%);
+    }
+    
+    .gradient-text {
+        background-image: linear-gradient(45deg, #7a6254, #2f4350);
+    }
+    h1{
+        text-align: center;
+        color: rgb(161, 161, 161);
+    } 
+    
+    h2{
+        text-align: center;
+        color: darkgrey;
+    }
+    
+    .video{
+        display: block;
+        margin: auto;
+        border-radius: 3px;
+    }
+    
+    h3{
+        color: floralwhite;
+        text-align: center;
+    }
+
+    h4{
+        text-align: center;
+        color: rgb(102, 116, 119);
+    }
+
+    a{
+        color:gainsboro
+    }
